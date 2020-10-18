@@ -210,5 +210,5 @@ public class NewCalculadora {
         }while(select!=0);
     }
                                // programa de jose garcia inicializado: 14/10/20 finalizado: 17/10/20
-    
+          
 }
